@@ -1,4 +1,4 @@
-package DAY1_ConditionsDecisionMaking.Learning.Level1_MasterBasics.Level3_NestedGaurdClauses;
+package DAY1_ConditionsDecisionMaking.Learning.Level3_NestedGaurdClauses;
 
 public class GuardClause {
     public static void main(String[] args) {
